@@ -1,0 +1,1 @@
+# a-linear-regression-model-to-predict-the-price-of-a-house-based-on-its-square-footage.
